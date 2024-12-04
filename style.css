@@ -18,9 +18,7 @@ p {
     color: white;
   }
   body {
-    background-image: url(./img_r/fondo.jpg);
-    background-size: contain;
-    background-position: center;
+    
     margin: 0;
     padding: 20px 0;
     min-height: 100vh; /* Permitir crecimiento dinámico */
